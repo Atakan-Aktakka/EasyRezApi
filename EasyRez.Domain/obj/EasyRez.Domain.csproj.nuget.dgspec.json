@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/EasyRez.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Core/EasyRez.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Core/EasyRez.Core.csproj",
+        "projectName": "EasyRez.Core",
+        "projectPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Core/EasyRez.Core.csproj",
+        "packagesPath": "/Users/atakanaktakka/.nuget/packages/",
+        "outputPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atakanaktakka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/EasyRez.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/EasyRez.Domain.csproj",
+        "projectName": "EasyRez.Domain",
+        "projectPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/EasyRez.Domain.csproj",
+        "packagesPath": "/Users/atakanaktakka/.nuget/packages/",
+        "outputPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/atakanaktakka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Core/EasyRez.Core.csproj": {
+                "projectPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Core/EasyRez.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

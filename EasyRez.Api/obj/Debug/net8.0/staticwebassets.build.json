@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GkcsbWopGgDyeJ5PaK4kKB4GpwHC99uYhiiXWMW0fD8=",
+  "Source": "EasyRez.Api",
+  "BasePath": "_content/EasyRez.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

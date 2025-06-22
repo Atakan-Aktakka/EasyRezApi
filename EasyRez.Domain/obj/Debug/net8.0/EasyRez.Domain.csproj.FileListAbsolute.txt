@@ -1,0 +1,16 @@
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.AssemblyInfoInputs.cache
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.AssemblyInfo.cs
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.sourcelink.json
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\bin\Debug\net8.0\EasyRez.Domain.deps.json
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\bin\Debug\net8.0\EasyRez.Domain.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\bin\Debug\net8.0\EasyRez.Domain.pdb
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\bin\Debug\net8.0\EasyRez.Core.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\bin\Debug\net8.0\EasyRez.Core.pdb
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez..67411DDC.Up2Date
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\refint\EasyRez.Domain.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\EasyRez.Domain.pdb
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domain\obj\Debug\net8.0\ref\EasyRez.Domain.dll

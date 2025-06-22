@@ -1,0 +1,15 @@
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\bin\Debug\net8.0\EasyRez.Domian.deps.json
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\bin\Debug\net8.0\EasyRez.Domian.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\bin\Debug\net8.0\EasyRez.Domian.pdb
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.AssemblyInfoInputs.cache
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.AssemblyInfo.cs
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\refint\EasyRez.Domian.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.pdb
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\ref\EasyRez.Domian.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\bin\Debug\net8.0\EasyRez.Core.dll
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\bin\Debug\net8.0\EasyRez.Core.pdb
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez.Domian.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\EasyRez\EasyRez.Domian\obj\Debug\net8.0\EasyRez..58695CD4.Up2Date
