@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyRez.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe303dbb44282541df38344510dc0297013530b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e86c84e36670cc8f39e36e52ae9019996895ade")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyRez.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyRez.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

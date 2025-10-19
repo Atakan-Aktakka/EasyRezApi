@@ -366,32 +366,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/atakanaktakka/.nuget/packages/": {}
+    "C:\\Users\\ataka\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Application/EasyRez.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ataka\\OneDrive\\Desktop\\EasyRezApi\\EasyRez.Application\\EasyRez.Application.csproj",
       "projectName": "EasyRez.Application",
-      "projectPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Application/EasyRez.Application.csproj",
-      "packagesPath": "/Users/atakanaktakka/.nuget/packages/",
-      "outputPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Application/obj/",
+      "projectPath": "C:\\Users\\ataka\\OneDrive\\Desktop\\EasyRezApi\\EasyRez.Application\\EasyRez.Application.csproj",
+      "packagesPath": "C:\\Users\\ataka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ataka\\OneDrive\\Desktop\\EasyRezApi\\EasyRez.Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/atakanaktakka/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ataka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/EasyRez.Domain.csproj": {
-              "projectPath": "/Users/atakanaktakka/Documents/GitHub/EasyRez/EasyRez.Domain/EasyRez.Domain.csproj"
+            "C:\\Users\\ataka\\OneDrive\\Desktop\\EasyRezApi\\EasyRez.Domain\\EasyRez.Domain.csproj": {
+              "projectPath": "C:\\Users\\ataka\\OneDrive\\Desktop\\EasyRezApi\\EasyRez.Domain\\EasyRez.Domain.csproj"
             }
           }
         }
@@ -406,7 +413,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -449,7 +456,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -3,6 +3,8 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using MediatR;
 using EasyRez.Application.Reservation.Common;
+using EasyRez.Api.Workers; // <-- YENİ EKLENDİ (Worker'ın namespace'i)
+using Microsoft.EntityFrameworkCore; // <-- YENİ EKLENDİ (UseSqlServer için)
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -50,8 +52,30 @@ builder.Services.AddAutoMapper(typeof(ReservasionMapper).Assembly);
 // Add Infrastructure services
 builder.Services.AddInfrastructure(builder.Configuration);
 
+
+// ---------- YENİ EKLENECEK ALAN ----------
+
+// 1. WorkerSettings'i appsettings.json'dan okumak için kaydet
+builder.Services.AddHostedService<TaskSchedulerWorker>();
+
+// 2. HttpClientFactory'yi ekle
+builder.Services.AddHttpClient("EasyRezClient", client =>
+{
+    // Worker'ın kendi API'sine (localhost) erişmesi için 
+    // Properties/launchSettings.json dosyanızdaki 'applicationUrl' adresini
+    // buraya base address olarak ekleyebilirsiniz.
+    // Örnek: client.BaseAddress = new Uri("https://localhost:7001");
+});
+
+// 3. Worker'ı Hosted Service olarak kaydet
+builder.Services.AddHostedService<ExternalApiWorker>();
+
+// ------------------------------------------
+
+
 var app = builder.Build();
-AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+
+// AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true); // <-- SİLİNDİ (Bu Npgsql içindi)
 
 app.UseExceptionHandler();
 
@@ -71,4 +95,4 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
 
-app.Run(); 
+app.Run();
